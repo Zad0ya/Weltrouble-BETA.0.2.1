@@ -1,0 +1,227 @@
+﻿  Source.cpp
+C:\Users\Max\source\repos\SPACE\SPACE\ANIMATION_UI.h(8,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\ANIMATION_UI.h(8,58): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\ANIMATION_UI.h(12,16): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\ANIMATION_UI.h(15,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\PLAYER.h(23,48): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\PLAYER.h(23,45): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\ItemsGenerator.h(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\VIEW.h(20,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\VIEW.h(24,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\VIEW.h(28,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\VIEW.h(31,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\LANGUAGE_GLOBAL.h(40,30): warning C4566: символ, представленный универсальным именем символа "\u00E4", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Max\source\repos\SPACE\SPACE\NPC.h(25,52): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\NPC.h(25,49): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\NPC.h(39,28): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\NPC.h(52,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\Max\source\repos\SPACE\SPACE\NPC.h(59,70): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\NPC.h(59,67): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\NPC.h(59,62): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\NPC.h(59,53): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(13,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(34,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(61,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(66,89): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(66,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(75,157): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(75,103): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(88,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(88,52): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(92,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(97,89): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(97,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(106,157): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(106,103): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(113,89): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\MENUBAR.h(113,55): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(30,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(125,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(125,60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(147,80): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(147,59): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(148,75): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(148,55): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(150,63): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(150,39): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(159,15): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(164,17): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(213,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(213,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(244,72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(244,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(251,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(256,154): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(256,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(268,80): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(268,56): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(275,53): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(275,76): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(276,17): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(277,17): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(279,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(293,17): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(294,17): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(296,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(311,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(311,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(336,40): warning C4305: =: усечение из "double" в "float"
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(337,28): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(345,40): warning C4305: =: усечение из "double" в "float"
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(346,28): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(359,42): warning C4305: =: усечение из "double" в "float"
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(360,29): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(368,41): warning C4305: =: усечение из "double" в "float"
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(369,28): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(382,40): warning C4305: =: усечение из "double" в "float"
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(383,28): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(388,40): warning C4305: =: усечение из "double" в "float"
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(392,28): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(401,40): warning C4305: =: усечение из "double" в "float"
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(402,28): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(407,40): warning C4305: =: усечение из "double" в "float"
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(408,28): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(458,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(458,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Max\source\repos\SPACE\SPACE\Source.cpp(472,62): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  SPACE.vcxproj -> C:\Users\Max\source\repos\SPACE\Debug\SPACE.exe
